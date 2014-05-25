@@ -1,0 +1,36 @@
+html {
+/*	width: 1701px;
+	height: 1129px;*/
+	/*background:url('../../img/blueyogadoor.jpg') no-repeat;*/
+	background:url('../../img/yogadoor.png') no-repeat fixed;
+    background-position: fixed;
+}
+
+.jumbotron {
+	background-color: transparent;
+    margin-top: 5px;
+}
+
+body {
+	background-color: transparent;
+	color: #fff;
+}
+
+footer {
+  bottom: 0;
+  /*width: 100%;*/
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+.photo-grid img {
+    border: 1px solid #333;
+}
+
+.view-details {
+    margin-top: 10px;
+}
+
+.ratings p {
+    font-size: 16px;
+}
